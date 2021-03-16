@@ -1,4 +1,17 @@
-### Oi, Galeraa 👋
+#Meu nome é Anderson
 
-- 🔭 Eu sou um programador iniciante a procura de um trabalho.
-- 🌱 Eu estou atualmente aprendendo HTML,CSS,JAVASCRIPT,MONGODB,REACT e NODE! 
+##Sou um programador iniciante
+
+###🛠 Tecnologias:
+
+- [x] HTML5
+- [x] CSS3
+- [] JS
+- [] React
+- [] Tailwindcss
+- [] Node
+- [] Mongo
+- [] SQL
+
+###Estou sempre buscando melhorar!
+ 
