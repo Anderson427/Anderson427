@@ -1,8 +1,8 @@
-#Meu nome é Anderson
+# Meu nome é Anderson
 
-##Sou um programador iniciante
+## Sou um programador iniciante
 
-###🛠 Tecnologias:
+### 🛠 Tecnologias:
 
 - [x] HTML5
 - [x] CSS3
@@ -13,5 +13,5 @@
 - [] Mongo
 - [] SQL
 
-###Estou sempre buscando melhorar!
+### Estou sempre buscando melhorar!
  
